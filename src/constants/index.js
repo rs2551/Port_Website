@@ -133,46 +133,39 @@ import {
   ];
   
   const experiences = [
-
-    {
-      title: "Embedded Software Engineering Intern",
-      company_name: "Tesla Inc.",
-      icon: Tesla,
+       {
+      title: "Controls and Robotics Engineer",
+      company_name: "Mississippi State University",
+      icon: Cummins,
       iconBg: "#FFFFFF",
-      date: "January 2024 - May 2024",
+      date: "June 2022 - Present",
       points: [
-        "Spearheaded the development of automated intake camera systems for Tesla’s service centers globally, capable of achieving an anticipated annual saving of $25 million through streamlined vehicle inspections and data recording.",
-        "Engineered custom smart lift pads for two post car lifts, enhancing safety and delivering potential savings of up to $1.5 million by optimizing lift operations for Tesla.",
+        "Automated anechoic chamber operation and data acquisition, contributing to IEEE-published research.",
+        "Designed, built, and programmed an autonomous robot for an egg collection challenge using PID control.",
+        "Led drone swarm network development, increasing communication range by 20%.",
+        "Conducted data analysis using Python and InfluxDB for optimized processing.",
+       
        
       ],
     },
-    
+      
     {
       title: "Control and Equipment Engineering Intern",
       company_name: "Tesla Inc.",
       icon: Tesla,
       iconBg: "#FFFFFF",
-      date: "August 2023 - December 2023",
+      date: "July 2023 - December 2023",
       points: [
-        "Managed 24/7 Megapack production operations, minimizing downtime through swift issue resolution and Root Cause Analysis.",
-        "Worked with different type of manufacturing equipments like Atlas Copco tools, HiPot Testers, leak testers, dispense systems, robot fastening systems etc.. Actively addressed equipment issues, diagnosed failures, conducted upgrades, and troubleshooted control systems for seamless Megapack production.",
+        "Programmed buffer logic using Beckhoff PLC, reducing cycle time by 15s and saving $4.3M annually.",
+          "Developed deep learning model with Cognex D905C cameras, improving false fastener detection efficiency by 12%.",
+          "Resolved escalated production issues, reducing downtime by 19%.",
+          "Implemented HMI improvements, PLC logic integration, and device enhancements, increasing production yield by 13.5%.",
+        
        
       ],
     },
 
-    {
-      title: "Systems Engineering Intern",
-      company_name: "Cummins Inc.",
-      icon: Cummins,
-      iconBg: "#FFFFFF",
-      date: "June 2023 - August 2023",
-      points: [
-        "Actively working on engine performance and XPI fuel injectors to optimize fuel efficiency, power output, and emissions control in the Cummins L10 hybrid engine.",
-        "Utilizing system modelling to design and implement a black box for the fuel system of the Cummins L10 hybrid engine, ensuring seamless integration and effective communication within the system.",
-       
-       
-      ],
-    },
+
 
     {
       title: "Automation Engineer",
@@ -187,60 +180,7 @@ import {
       ],
     },
 
-    {
-      title: "Undergraduate Research Assistant",
-      company_name: "Purdue Univesity",
-      icon: meta,
-      iconBg: "#000000",
-      date: "February 2022 - December 2022",
-      points: [
-        "Collaborated with a team of researchers to develop an economical design option for medical phantoms using locally sourced material, resulting in a 96 % decrease in price(prices dropped to 20 dollars from 500 dollars).",
-        "Formulated a precise and intuitive mapping framework to enable tele-operation of a robotic arm via a haptic device.",
-       
-      ],
-    },
 
-    {
-      title: "E-powertrain Engineer",
-      company_name: "MotoManipal",
-      icon: typescript,
-      iconBg: "#000000",
-      date: "January 2020 - February 2021",
-      points: [
-        "Applied knowledge on sensors implementation and it’s application on bike and built a speed sensor , and obstacle avoiding system using Open CV and bagged first place for two consecutive national e-bike design competitions.",
-        "Contributed to the development of a modern Battery Management System and Insulation Monitoring Device for an electric superbike, resulting in the establishment of an in-house BMS and IMD.",
-    
-      ],
-    },
-
-    {
-      title: "Robotics Engineer Intern",
-      company_name: "Robokriti India Private Limited",
-      icon: tesla,
-      iconBg: "#FFFFFF",
-      date: "March 2018 - December 2019",
-      points: [
-        "Created a drawing and writing robot using Arduino UNO, CNC shield, servo motor, stepper motors, and stepper drivers that can draw, write in any font, style, and language.",
-        "Used Arduino and electronics to build a biped robot using 3d printer, servos, and ultrasonic sensor that could walk and make decisions according to surroundings.",
-       
-      ],
-    },
-
-
-    {
-      title: "Robotics Intern",
-      company_name: "Novatech Robo Pvt. Ltd.",
-      icon: starbucks,
-      iconBg: "#FFFFFF",
-      date: "April 2017 - May 2017",
-      points: [
-        "Developed skills in basic electronics and created robots such as line follower using motor drivers and IC’s.",
-        "Practiced Lego bricks up to 2nd level and built robots to perform specific tasks such as chain-sawing and exploration.",
-       
-      ],
-    },
-    
-    
     
    
     
